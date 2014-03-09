@@ -1,4 +1,0 @@
-Algorithm
-=========
-
-basic algorithm
